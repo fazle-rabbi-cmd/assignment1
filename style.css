@@ -1,0 +1,100 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    margin-top: 8%;
+}
+
+#first_section {
+    color: white;
+
+}
+
+#section1 {
+    padding: 8%;
+    margin-top: 0;
+
+}
+
+.for_section {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(239, 97, 81);
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 2px;
+    color: white;
+}
+
+.background {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.keeping_in_row {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+}
+
+#basic_neeeds {
+    margin-top: 0;
+}
+
+.box {
+    width: 50%;
+    background-color: rgb(232, 227, 227);
+    color: black;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+#chosen_box {
+    color: red;
+    border: 2px solid red;
+    background-color: rgb(238, 134, 134);
+}
+
+.money_input {
+    box-shadow: 0px 1px rgb(170, 163, 163);
+    color: gray;
+    margin-bottom: 5%;
+}
+
+.align {
+    text-align: left;
+    padding: 5%;
+}
+
+#food {
+    background-color: rgb(196, 255, 235);
+    padding: 50px 20px;
+    margin-right: 3%;
+}
+
+#family {
+    background-color: rgb(247, 215, 220);
+    padding: 50px 20px;
+    margin-right: 3%;
+}
+
+#education {
+    background-color: rgb(182, 245, 210);
+    padding: 50px 20px;
+}
