@@ -64,6 +64,9 @@ section {
     display: flex;
 }
 
+#donate {
+    border: none;
+}
 
 
 .box {
@@ -86,6 +89,8 @@ section {
     box-shadow: 0px 1px rgb(170, 163, 163);
     color: gray;
     margin-bottom: 5%;
+    border: none;
+    padding: 0px 200px;
 }
 
 .align {
